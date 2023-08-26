@@ -4,11 +4,11 @@ Hola! Aquí estarán almacenados los códigos vistos en las auxiliares de modali
 
 
 ```
-Aux-3 // Proyecto correspondiente al Auxiliar 3
+epositive-aux-codes/Aux-3 // Proyecto correspondiente al Auxiliar 3
 .
 .
 .
-Aux-n// Proyecto correspontiende al Auxiliar n
+epositive-aux-codes/Aux-n // Proyecto correspontiende al Auxiliar n
 ```
 
 ## Cómo utilizar el repositorio
